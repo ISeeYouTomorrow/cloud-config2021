@@ -1,2 +1,4 @@
 server:
   port: 8008
+config:
+  info: version 1.0 
